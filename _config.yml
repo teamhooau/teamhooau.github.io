@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Development.Team.."
+title                    : "We are Team Hooau."
 title_separator          : "-"
-name                     : "Team hooau"
-description              : "Development Team"
+name                     : "Team Hooau"
+description              : "Moobile Application Development Team"
 url                      : https://teamhooau.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,13 +104,13 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "Development Team"
   location       : "Seoul, Korea"
-  email            : "josansnim@gmail.com"
+  email            : "teamhooau@gmail.com"
   github          : "teamhooau"
   #facebook     : "teamhooau"
   #instagram   : "josansnim"
   #youtube       : "josansnim"
-  uri                    : &uri "https://josans.blog.me/"
-  url                    : *uri
+  #uri                    : &uri "https://josans.blog.me/"
+  #url                    : *uri
 
   links:
     - label: "Email"
