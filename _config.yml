@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "We are Team Hooau."
+title                    : "Better.Dev."
 title_separator          : "-"
-name                     : "Team Hooau"
-description              : "Moobile Application Development Team"
+name                     : "Teamhooau"
+description            t : "MobileApp Development Team"
 url                      : https://teamhooau.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Team hooau"
+  name             : "Teamhooau"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Development Team"
+  bio              : "MobileApp Development Team"
   location       : "Seoul, Korea"
   email            : "teamhooau@gmail.com"
   github          : "teamhooau"
